@@ -1,0 +1,2 @@
+  ProxyPass /wss ws://localhost:8080
+        ProxyPassReverse /wss /ws://localhost:8080
